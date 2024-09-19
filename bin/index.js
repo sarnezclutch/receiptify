@@ -116,8 +116,8 @@ const runApp = async () => {
       CN1: cn1,
       CN2: cn2,
       CN3: cn3,
-      Pound: '1',
-      Pence: '99',
+      AmountSpent1: '1',
+      AmountSpent2: '99',
       NextButton: 'Start'
     });
     html = parser.parse(res);
